@@ -48,3 +48,21 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the map.
+
+## Testing with Playwright
+
+This application uses [Playwright](https://playwright.dev/) for end-to-end testing to simulate user interactions and ensure the application functions as expected. Playwright tests are capable of capturing screenshots, generating snapshots, and producing trace files to provide a detailed view of the test execution.
+
+### Running Tests
+
+To run the end-to-end tests, execute the following command:
+
+```bash
+npx playwright test
+```
+
+After the test has run, you can access the trace files as follows:
+
+```bash
+npx playwright show-trace trace.zip
+```
