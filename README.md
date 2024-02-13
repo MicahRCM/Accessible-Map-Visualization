@@ -1,5 +1,3 @@
-# Put something good here
-
 # LA County JENI Acessible Data Visualization App
 
 This application provides a dynamic visualization of the Justice Equity Need Index (JENI) for Los Angeles County. The JENI, developed by Advancement Project California, is a pivotal tool that highlights ZIP Codes in dire need of public investments aimed at community healing, health, and prevention as a means to rectify historical injustices.
