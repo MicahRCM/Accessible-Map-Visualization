@@ -1,6 +1,6 @@
 {
     "functions": {
-      "api/getVisualizationDescription/route.ts": {
+      "app/api/getVisualizationDescription/route.ts": {
         "memory": 3008,
         "maxDuration": 60
       }
